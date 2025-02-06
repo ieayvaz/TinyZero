@@ -8,7 +8,7 @@ numpy
 pandas
 pybind11
 ray
-tensordict<0.6
-transformers<4.48
+tensordict
+transformers
 vllm==0.7.1
 wandb
